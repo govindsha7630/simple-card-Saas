@@ -1,6 +1,6 @@
 ## 📌 Simple Feature Section — DevChallenges
 
-![Thumbnail](thumbnail.png)
+![Thumbnail](thumbnail.jpg)
 
 This is my solution to the **Simple Feature Section** challenge from DevChallenges.io.  
 I built a clean and responsive feature section using **HTML** and **CSS** following the given design.
